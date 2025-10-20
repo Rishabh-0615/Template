@@ -1,0 +1,32 @@
+# Java / Spring Boot (Maven)
+target/
+*.class
+*.jar
+*.war
+*.log
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+
+# Node / React
+node_modules/
+dist/
+.env
+.env.local
+npm-debug.log
+yarn-error.log
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Optional: IntelliJ
+/.idea/
+/out/
+
+# Git
+/.DS_Store
